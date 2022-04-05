@@ -1,0 +1,8 @@
+Why? 
+I noticed that during coding interview, it is super challenging for me to write code in a limited time frame. 
+It seems obvious that I need to up-level my python coding skills. It is boring to code each day in leetcode. 
+So I found this 100 day of Code challenge which is a sweet spot for me. 
+I can find coding practices and review python basics and build profolio projects in python along the way. 
+
+Here are my learning notes:
+Day 1: Basics: print, variables, string manipulations
