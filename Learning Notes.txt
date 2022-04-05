@@ -6,4 +6,4 @@ I can find coding practices and review python basics and build profolio projects
 The plan is to spend 1 hour each day working on python coding for 100 days.  
 
 Here are my learning notes:
-Day 1: Basics: print, variables, string manipulations
+Day 1: Basics: print, variables, string manipulations, data types, numbers, type conversion, operations, f-string
