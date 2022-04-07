@@ -9,6 +9,6 @@ Here are my learning notes:
 Day 1: Basics: print, variables, string manipulations, data types, numbers, type conversion, operations, f-string
 Day 2: Conditional Statements, Logical Operators, Code Blocks and Scope
 Day 3: Randomisation, python list
-	Programming is like going to the Gym. Need to commit the hour and practice to get the coding mustle built.
+	Programming is like going to the Gym. Need to commit the hour and practice to get the coding muscle built.
 	Fun project: Rock, Paper, Scissor Game.
 
