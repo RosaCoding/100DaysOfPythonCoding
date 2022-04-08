@@ -11,4 +11,14 @@ Day 2: Conditional Statements, Logical Operators, Code Blocks and Scope
 Day 3: Randomisation, python list
 	Programming is like going to the Gym. Need to commit the hour and practice to get the coding muscle built.
 	Fun project: Rock, Paper, Scissor Game.
+Day 4: Dictionaries and nesting
+	To Loop through a dictionary:
+	for key in dic_example:
+		print(key) # print each key in dictionary
+		print(dic_example[key]) # print each value in dictionary
+	Nesting:
+		1. Nest Dictionaries in List
+		2. Nest Dictionaries in Dictionary
+		3. Nest List in Dictionary
+		4. Nest List in List
 
