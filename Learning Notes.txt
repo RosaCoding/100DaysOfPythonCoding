@@ -21,4 +21,5 @@ Day 4: Dictionaries and nesting
 		2. Nest Dictionaries in Dictionary
 		3. Nest List in Dictionary
 		4. Nest List in List
+Day 5: Functions with Outputs; Docstring (first line after declaraion) 
 
