@@ -22,4 +22,37 @@ Day 4: Dictionaries and nesting
 		3. Nest List in Dictionary
 		4. Nest List in List
 Day 5: Functions with Outputs; Docstring (first line after declaraion) 
+Day 6: Blackjack game:
+	https://games.washingtonpost.com/games/blackjack
+	Rule:
+	## The deck is unlimited in size. 
+	## There are no jokers. 
+	## The Jack/Queen/King all count as 10.
+	## The the Ace can count as 11 or 1.
+	## Use the following list as the deck of cards:
+	## cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+	## The cards in the list have equal probability of being drawn.
+	## Cards are not removed from the deck as they are drawn.
+	## The computer is the dealer.
+	Logic(need to draw a flow chart)
+		dealer(comp) 2 cards
+		player 2 cards
+		if dearler = 21 dealer win
+		if player = 21 player win
+		****What if there is a tie?
+		if no one wins when having 2 cards
+			check if player needs another card:
+				if n, then who has larger number wins
+				if y, player is having another card, if player sum > 21 player lose
+									if player sum < 21 check if player ask another card
+										
+
+
+
+
+
+
+
+
+		
 
