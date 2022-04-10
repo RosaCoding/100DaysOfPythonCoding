@@ -35,21 +35,16 @@ Day 6: Blackjack game:
 	## Cards are not removed from the deck as they are drawn.
 	## The computer is the dealer.
 	Logic(need to draw a flow chart)
-		dealer(comp) 2 cards
-		player 2 cards
-		if dearler = 21 dealer win
-		if player = 21 player win
-		****What if there is a tie?
-		if no one wins when having 2 cards
-			check if player needs another card:
-				if n, then who has larger number wins
-				if y, player is having another card, if player sum > 21 player lose
-									if player sum < 21 check if player ask another card
-										
-
-
-
-
+		Define a function to calculate score to consider how many As player or dealer have
+			in the function, put As in a list, the final score is the largest score <= 21 or if over, the min score
+		if both have 2 cards, judge if anyone wins at first run 
+		ask if player take another card
+			if n: 
+				compare cards
+					???if dealer < 17, dealer add another card
+			if y:
+				compare cards
+					if dealer < 17, dealer add another card 
 
 
 
