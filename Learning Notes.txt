@@ -45,7 +45,7 @@ Day 6: Blackjack game:
 			if y:
 				compare cards
 					if dealer < 17, dealer add another card 
-
+Day 7: Debugging: How to find and fix errors
 
 
 
