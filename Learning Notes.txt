@@ -48,6 +48,9 @@ Day 6: Blackjack game:
 Day 7: Debugging: How to find and fix errors
 	print variables
 	Use a debugger
+Day 8: IDE, Pycharm, 
+	break down the problem by adding TODO
+	Project:Coffee Machine
 
 
 
