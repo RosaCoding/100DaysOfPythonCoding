@@ -51,7 +51,8 @@ Day 7: Debugging: How to find and fix errors
 Day 8: IDE, Pycharm, 
 	break down the problem by adding TODO
 	Project:Coffee Machine
-
+Day 9: OOP
+	constructing object from class
 
 
 		
