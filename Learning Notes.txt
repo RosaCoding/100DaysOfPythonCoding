@@ -53,6 +53,7 @@ Day 8: IDE, Pycharm,
 	Project:Coffee Machine
 Day 9: OOP
 	constructing object from class
+	attribute; method
 
 
 		
