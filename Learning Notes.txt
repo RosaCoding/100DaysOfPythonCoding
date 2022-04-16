@@ -59,7 +59,9 @@ Day 10: Write Class
 	create a question class
 	create a list of question class
 	Advantages of OOP
-	Keep trying
+	Keep trying; Run for that bus even if you do not make it!
+
+Day 11: Turtle Graphics, Turple, Importing Modules
 
 
 		
