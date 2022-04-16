@@ -58,6 +58,7 @@ Day 10: Write Class
 	PascalCase(class) camelCase snake_case(everything else)
 	create a question class
 	create a list of question class
+	Advantages of OOP
 
 
 		
