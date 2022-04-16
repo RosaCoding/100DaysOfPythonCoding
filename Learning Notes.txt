@@ -54,6 +54,9 @@ Day 8: IDE, Pycharm,
 Day 9: OOP
 	constructing object from class
 	attribute; method
+Day 10: Write Class
+	PascalCase(class) camelCase snake_case(everything else)
+	create a question class
 
 
 		
