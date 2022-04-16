@@ -59,6 +59,7 @@ Day 10: Write Class
 	create a question class
 	create a list of question class
 	Advantages of OOP
+	Keep trying
 
 
 		
